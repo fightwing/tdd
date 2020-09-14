@@ -1,0 +1,12 @@
+You are given strings of different lengths.
+
+If the number of vowels (aeiou) are more than 30% of the string length then insert ‘mommy’ for each continuous set of vowels.
+
+Given
+strings of different lengths
+
+when
+count vowels
+
+then
+insert ‘mommy’ for each continuous set of vowels.
